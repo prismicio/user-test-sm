@@ -1,0 +1,37 @@
+{
+  "id": "summary",
+  "type": "SharedSlice",
+  "name": "Summary",
+  "description": "Summary",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "Summary",
+      "primary": {
+        "title": {
+          "config": {
+            "label": "Title",
+            "placeholder": "This is where it all begins...",
+            "allowTargetBlank": true,
+            "single": "heading2"
+          },
+          "type": "StructuredText"
+        }
+      },
+      "items": {
+        "item": {
+          "config": {
+            "label": "",
+            "placeholder": "How to do this",
+            "allowTargetBlank": true,
+            "multi": "paragraph,embed"
+          },
+          "type": "StructuredText"
+        }
+      }
+    }
+  ]
+}

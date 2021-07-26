@@ -1,10 +1,8 @@
 <template>
-  <div class="bg-black">
+  <div class="container mx-auto px-10 max-w-4xl">
     <Nuxt />
   </div>
 </template>
-
-
 
 <style>
 html {
@@ -15,7 +13,6 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
-  color: #fefefe;
   font-family: "Montserrat";
 }
 

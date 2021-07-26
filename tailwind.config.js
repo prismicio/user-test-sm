@@ -1,12 +1,9 @@
 module.exports = {
   mode: "jit",
-  purge: [
-    './slices/**/*.vue'
-  ],
+  purge: ["./slices/**/*.vue"],
   theme: {
-    fontFamily: {
-      sans: "'Montserrat'",
-      serif: "'Yeseva One'"
+    container: {
+      padding: "8rem"
     },
     colors: {
       velvet: "#e31e3c",
@@ -15,4 +12,4 @@ module.exports = {
       grey: "#858585"
     }
   }
-}
+};
