@@ -46,9 +46,6 @@
           "choices": {
             "summary": {
               "type": "SharedSlice"
-            },
-            "video": {
-              "type": "SharedSlice"
             }
           }
         }
