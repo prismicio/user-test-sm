@@ -1,10 +1,6 @@
-# prismic-demo-slicezone-redsquare
+# prismic-user-test-sm
 
-A demo website built during SliceZone streams on [Prismic.io Twitch's channel](https://twitch.tv/prismicio).
-
-- [✨ &nbsp;Try Prismic](https://prismic.io/pricing?utm_campaign=devexp&utm_source=github&utm_medium=demoszredsquare)
-- [📚 &nbsp;Prismic Nuxt documentation](https://prismic.io/docs/technologies/nuxtjs?utm_campaign=devexp&utm_source=github&utm_medium=demoszredsquare)
-- [💚 &nbsp;Prismic Nuxt Module](https://prismic.nuxtjs.org)
+A demo website for Design Team.
 
 ## Build Setup
 
