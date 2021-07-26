@@ -1,0 +1,32 @@
+{
+  "id": "getting-started",
+  "label": "Getting Started",
+  "status": true,
+  "repeatable": false,
+  "json": {
+    "Main": {
+      "link": {
+        "type": "Link",
+        "config": {
+          "label": "",
+          "placeholder": "",
+          "allowTargetBlank": true
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "testimonials_slider": {
+              "type": "SharedSlice"
+            },
+            "feature_testimonials": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}
