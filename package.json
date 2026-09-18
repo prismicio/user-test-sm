@@ -16,7 +16,7 @@
     "@fontsource/yeseva-one": "^4.4.5",
     "core-js": "^3.14.0",
     "gsap": "3.7.0",
-    "nuxt": "^2.15.6",
+    "nuxt": "^4.5.2",
     "nuxt-sm": "^0.0.8",
     "sass": "^1.35.2",
     "sass-loader": "^10.1.1",
